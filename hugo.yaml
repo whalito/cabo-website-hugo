@@ -1,5 +1,5 @@
 baseURL: ''
-title: TailBliss
+title: We are Santa Maria
 languageCode: en-us
 DefaultContentLanguage: en
 enableEmoji: true
@@ -46,7 +46,7 @@ markup:
       xhtml: false
 
 params:
-  author: Nusser Studios
+  author: BVIT Webdesign
   authorimage: ../assets/images/global/author.webp
   og_image: /images/tailbliss-cover.png
   moto: "Super Fast, and Flexible"
